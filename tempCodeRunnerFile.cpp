@@ -1,0 +1,1 @@
+newHead->val = sum;
