@@ -1,1 +1,1 @@
-newHead->val = sum;
+cin>> a >> b;
